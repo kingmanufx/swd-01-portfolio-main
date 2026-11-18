@@ -26,6 +26,49 @@ I'm a web developer building practical projects across frontend development, PHP
 - [Weather Dashboard](https://github.com/abdulrahmanjamiu221-cmd/03-weather-dashboard) — a JavaScript dashboard that uses a weather API.
 - [Recipe Explorer](https://github.com/kingmanufx/15-recipe-explorer) — a Next.js recipe discovery experience.
 
+<details>
+<summary>All 16 programme repositories</summary>
+
+### Frontend
+
+- [HTML/CSS Portfolio](https://github.com/kingmanufx/swd-01-portfolio-main)
+- [JS Landing Page](https://github.com/abdulrahmanjamiu221-cmd/02-landingpage)
+- [Weather Dashboard](https://github.com/abdulrahmanjamiu221-cmd/03-weather-dashboard)
+- [React Quiz](https://github.com/abdulrahmanjamiu221-cmd/13-react-quiz)
+
+### PHP and MySQL
+
+- [PHP Dynamic Site](https://github.com/abdulrahmanjamiu221-cmd/04_php_site)
+- [Student Records](https://github.com/kingmanufx/05-student-records)
+- [PHP Auth System](https://github.com/abdulrahmanjamiu221-cmd/swd-06-php-auth)
+- [PHP Blog CMS](https://github.com/abdulrahmanjamiu221-cmd/07-php-blog)
+- [School Database](https://github.com/abdulrahmanjamiu221-cmd/08-school-database)
+- [PHP Shop and Cart](https://github.com/abdulrahmanjamiu221-cmd/09-php-shop)
+
+### Node.js
+
+- [Node CLI](https://github.com/abdulrahmanjamiu221-cmd/10-node-cli)
+- [Express REST API](https://github.com/abdulrahmanjamiu221-cmd/11-express-api)
+- [Notes API](https://github.com/abdulrahmanjamiu221-cmd/12-notes-api)
+
+### Next.js
+
+- [Company Site](https://github.com/kingmanufx/14-nextjs-site)
+- [Recipe Explorer](https://github.com/kingmanufx/15-recipe-explorer)
+- [Project Tracker](https://github.com/kingmanufx/16-project-tracker) — repository created; source is not published yet.
+</details>
+
+<details>
+<summary>Other repositories</summary>
+
+- [Older Portfolio](https://github.com/abdulrahmanjamiu221-cmd/swd-01-portfolio)
+- [Student Registration](https://github.com/abdulrahmanjamiu221-cmd/student_registeration)
+- [Library QR System](https://github.com/abdulrahmanjamiu221-cmd/library_qr_system_complete)
+- [Local Business Manager](https://github.com/abdulrahmanjamiu221-cmd/localbiz-manager)
+- [School Blueprint](https://github.com/abdulrahmanjamiu221-cmd/school_bluprint)
+- [E-voting System](https://github.com/kingmanufx/nacos_evoting-system)
+</details>
+
 ## Contact
 
 - Email: [abdulrahmanjamiu221@gmail.com](mailto:abdulrahmanjamiu221@gmail.com)
