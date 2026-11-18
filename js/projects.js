@@ -82,7 +82,8 @@ const projects = [
     summary: "A notes API with Express, Neon-backed persistence, and JWT authentication.",
     stack: ["Express", "Neon", "JWT", "PostgreSQL"],
     category: "node",
-    repo: "https://github.com/search?q=user%3Aabdulrahmanjamiu221-cmd+Notes-API&type=repositories",
+    repo: "https://github.com/abdulrahmanjamiu221-cmd/12-notes-api",
+    caseStudy: "case-studies/notes-api/README.md",
     featured: true,
   },
   {

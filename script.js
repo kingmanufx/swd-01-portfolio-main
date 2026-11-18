@@ -35,6 +35,13 @@ function renderProjects(projectList, target, featured = false) {
     repositoryLink.rel = "noopener noreferrer";
     links.append(repositoryLink);
 
+    if (project.caseStudy) {
+      const caseStudyLink = document.createElement("a");
+      caseStudyLink.href = project.caseStudy;
+      caseStudyLink.textContent = "Case study";
+      links.append(caseStudyLink);
+    }
+
     if (project.live) {
       const liveLink = document.createElement("a");
       liveLink.href = project.live;
